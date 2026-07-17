@@ -42,4 +42,4 @@ Flask + PostgreSQL, scaling horizontal, health scoring, alerting Discord/mail, �
 ---
 
 ### Contact
-[LinkedIn](www.linkedin.com/in/victor-mercier-232842311) · questmk320@tuta.io
+[LinkedIn](https://www.linkedin.com/in/victor-mercier-232842311) · questmk320@tuta.io
