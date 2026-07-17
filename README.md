@@ -36,7 +36,7 @@ Flask + PostgreSQL, scaling horizontal, health scoring, alerting Discord/mail, �
 
 ### Autres
 
-- **Hackathon H-Secure** — chef de projet, équipe de 4, 2e place sur 10 (sécurisation d'un SI de clinique)
+- **[Hackathon H-Secure](https://github.com/victor54454/Gr8-HACKATON-2026)** — chef de projet, équipe de 4, 2e place sur 10 (sécurisation d'un SI de clinique)  
 - **[Mahoni_V2](https://github.com/victor54454/Mahoni_V2)** — site vitrine + prise de RDV pour coach VTT indépendant, en production depuis décembre 2025
 
 ---
